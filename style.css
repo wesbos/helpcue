@@ -100,3 +100,10 @@ ul.rooms li input[type="text"] {
 a {
   cursor:pointer;
 }
+
+
+.login {
+  display: block;
+  font-size: 100px;
+  text-align: center;
+}
